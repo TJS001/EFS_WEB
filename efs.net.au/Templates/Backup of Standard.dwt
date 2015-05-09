@@ -1,0 +1,36 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- TemplateBeginEditable name="doctitle" --> 
+<title>EFS : ???</title>
+<!-- TemplateEndEditable --> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!-- TemplateBeginEditable name="head" --> <!-- TemplateEndEditable --> 
+<link href="../stylesheet.css" rel="stylesheet" type="text/css">
+<link href="../favicon.ico" rel="SHORTCUT ICON">
+</head>
+
+<body bgcolor="#333367" text="#FFFFFF" link="#006699" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td background="../images/template_title_bg.gif" colspan="2"><a href="../index.html"><img src="../images/template_title.gif" alt="Effective Freight Solutions" width="363" height="65" border="0"></a></td>
+  </tr>
+  <tr> 
+    <td width="50%" valign="bottom" background="../images/front_navbar_bg.gif" style="padding-left: 40px; padding-right: 25px; padding-bottom: 14px;"><h1><!-- TemplateBeginEditable name="Title" -->Title<!-- TemplateEndEditable --></h1></td><td width="50%" align="left" valign="top" background="../images/front_navbar_bg.gif"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="460" height="82">
+        <param name="movie" value="../front_navbar.swf">
+        <param name="quality" value="high">
+        <embed src="../front_navbar.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="460" height="82"></embed></object></td>
+  </tr>
+</table>
+<div class="body"><!-- TemplateBeginEditable name="Body" -->Body<!-- TemplateEndEditable -->
+  <p>&nbsp;</p>
+</div>
+<hr noshade>
+<center class="footer">
+  <a href="../index.html">home</a> &nbsp;| &nbsp;<a href="../about_us.html">about 
+  us</a> &nbsp;|&nbsp;&nbsp;<a href="../contact_us.html">contact us</a> &nbsp;| 
+  &nbsp;<a href="../our_values.html">transport links</a> &nbsp;| &nbsp;<a href="../privacy_policy.html">privacy 
+  policy</a> <br>&nbsp;<br>&nbsp; 
+</center>
+</body>
+</html>

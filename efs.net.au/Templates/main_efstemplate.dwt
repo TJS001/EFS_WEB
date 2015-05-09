@@ -1,0 +1,108 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Effective Freight Solutions Services</title>
+<!-- TemplateEndEditable --> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable -->
+</head>
+
+<body text="#000000" link="#333333" vlink="#666666" alink="#333333" onLoad="MM_preloadImages('../images/home_f2.gif','../images/about_f3.gif','../images/services_f4.gif','../images/values_f5.gif','../images/technology_f6.gif','../images/contact_f7.gif')">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="550" align="center" valign="top" bgcolor="#000000">
+<table width="780" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td colspan="4"><img src="../images/header.jpg" width="780" height="130"></td>
+        </tr>
+        <tr> 
+          <td colspan="4" bgcolor="#CCCCCC"><img src="../images/clear.gif" width="10" height="4"></td>
+        </tr>
+        <tr> 
+          <td width="481" bgcolor="#000000"><table border="0" cellpadding="0" cellspacing="0" width="480">
+              <!-- fwtable fwsrc="navbar_top2.png" fwbase="navbar_main.gif" fwstyle="Dreamweaver" fwdocid = "742308039" fwnested="0" -->
+              <tr> 
+                <td><img src="../images/spacer.gif" alt="" name="undefined_2" width="64" height="1" border="0"></td>
+                <td><img src="../images/spacer.gif" alt="" name="undefined_2" width="81" height="1" border="0"></td>
+                <td><img src="../images/spacer.gif" alt="" name="undefined_2" width="78" height="1" border="0"></td>
+                <td><img src="../images/spacer.gif" alt="" name="undefined_2" width="80" height="1" border="0"></td>
+                <td><img src="../images/spacer.gif" alt="" name="undefined_2" width="92" height="1" border="0"></td>
+                <td><img src="../images/spacer.gif" alt="" name="undefined_2" width="85" height="1" border="0"></td>
+                <td><img src="../images/spacer.gif" alt="" name="undefined_2" width="1" height="1" border="0"></td>
+              </tr>
+              <tr> 
+                <td><a href="../index.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('home','','../images/home_f2.gif',1)"><img name="home" src="../images/home.gif" width="64" height="14" border="0" alt=""></a></td>
+                <td><a href="../about.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('about','','../images/about_f3.gif',1)"><img name="about" src="../images/about.gif" width="81" height="14" border="0" alt=""></a></td>
+                <td><a href="../services.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('services','','../images/services_f4.gif',1)"><img name="services" src="../images/services.gif" width="78" height="14" border="0" alt=""></a></td>
+                <td><a href="../values.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('values','','../images/values_f5.gif',1)"><img name="values" src="../images/values.gif" width="80" height="14" border="0" alt=""></a></td>
+                <td><a href="../technology.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('technology','','../images/technology_f6.gif',1)"><img name="technology" src="../images/technology.gif" width="92" height="14" border="0" alt=""></a></td>
+                <td><a href="../contact.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('contact','','../images/contact_f7.gif',1)"><img name="contact" src="../images/contact.gif" width="85" height="14" border="0" alt=""></a></td>
+                <td><img src="../images/spacer.gif" alt="" name="undefined_2" width="1" height="14" border="0"></td>
+              </tr>
+            </table>
+</td>
+          <td colspan="3" bgcolor="#CCCCCC"><!-- TemplateBeginEditable name="top" --><!-- TemplateEndEditable --></td>
+        </tr>
+        <tr> 
+          <td height="370" valign="top" bgcolor="#E8E8E8"><!-- TemplateBeginEditable name="page" --><!-- TemplateEndEditable --></td>
+          <td width="43" valign="middle" bgcolor="#CCCCCC"> <!-- TemplateBeginEditable name="banner" --><!-- TemplateEndEditable --></td>
+          <td width="255" valign="top" bgcolor="#CCCCCC"><!-- TemplateBeginEditable name="menu" --><!-- TemplateEndEditable --> 
+            <p>&nbsp;</p>
+          </td>
+          <td width="1" bgcolor="#CCCCCC">&nbsp;</td>
+        </tr>
+        <tr> 
+          <td height="8" colspan="4" bgcolor="#CCCCCC"><img src="../images/clear.gif" width="10" height="8"></td>
+        </tr>
+        <tr valign="top"> 
+          <td height="19" colspan="4" bgcolor="#CCCCCC"> 
+            <table width="776" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td width="10" height="19"><font color="#333333" size="2" face="Arial, Helvetica, sans-serif">&nbsp;</font></td>
+                <td width="406"><font color="#333333" size="2" face="Arial, Helvetica, sans-serif"><a href="../about.htm"><font color="#000000" size="1">about 
+                  us</font></a><font size="1"> | <a href="../services.htm"><font color="#000000">services</font></a> 
+                  | <a href="../values.htm"><font color="#000000">our values</font></a> 
+                  | <a href="../contact.htm"><font color="#000000">contact us</font></a> 
+                  | <a href="http://pickupsonline.com.au/efscustomerlogin.php"><font color="#000000">customer 
+                  login</font></a> |<a href="../track.htm"> <font color="#000000">freight 
+                  tracking</font></a> |<a href="../forms.htm"><font color="#000000"> 
+                  forms</font></a></font></font></td>
+                <td width="360" align="right"><font size="1">Copyright Effective 
+                  Freight Solutions 2006</font></td>
+              </tr>
+            </table>
+            
+          </td>
+        </tr>
+    </table></td>
+  </tr>
+</table>
+</body>
+</html>
