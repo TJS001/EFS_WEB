@@ -1,0 +1,68 @@
+html{ 
+	font-family: sans-serif;
+}
+body{
+	background-color: maroon;
+}
+.container{
+	height:100%;
+	width:100%;
+	background-image: url(../img/cars-city-contours-flip.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	position: fixed;
+}
+
+ul {
+	list-style:none;
+	padding:0;
+	overflow:hidden;
+	display:table;
+}
+
+li {
+	padding:0;
+	background:none;
+	display:table-cell;
+}
+
+
+h1, h2{ 
+	color:white;
+	text-shadow:5px 5px 10px black;
+	padding: 0;
+	margin: 0;
+}
+
+h1{ font-size: 11em;	}
+
+h2{font-size: 5em; }
+
+nav{
+	position: absolute;
+}
+
+section{
+	border-left-width: 1em;
+	border-left-style: solid;
+	border-left-color: white;
+	margin:18em 0 0 10em;
+	padding-left:1em;
+	position: absolute;
+}
+
+article {
+	background-color:white;
+	position: absolute;
+	top:41em;
+	width:100%;
+}
+footer{
+	position:absolute;
+	bottom:0;
+	left:0;
+	text-align:center;
+	width:100%;
+	padding:9px 0 10px;
+	border-top:4px solid #820025;
+}
